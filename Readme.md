@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Window1.xaml](./CS/WpfApplication2/Window1.xaml) (VB: [Window1.xaml](./VB/WpfApplication2/Window1.xaml))
-* [Window1.xaml.cs](./CS/WpfApplication2/Window1.xaml.cs) (VB: [Window1.xaml](./VB/WpfApplication2/Window1.xaml))
+* [Window1.xaml.cs](./CS/WpfApplication2/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/WpfApplication2/Window1.xaml.vb))
 <!-- default file list end -->
 # How to search through a specific column
 
